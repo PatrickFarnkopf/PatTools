@@ -26,6 +26,7 @@ $subject                = 'Process stopped'
 $serverName             = 'ExampleName'
 ##########################################
 
+
 require 'net/smtp'
 
 puts ">>>> Process Controller <<<<"
